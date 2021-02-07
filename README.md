@@ -1,5 +1,3 @@
-Weblink: https://giselag-hub.github.io/leaflet-challenge/
-
 
 # Leaflet Homework - Visualizing Data with Leaflet
 
