@@ -1,3 +1,6 @@
+http://<username>.github.io/<repository-name>
+
+
 # Leaflet Homework - Visualizing Data with Leaflet
 
 ![screenshot](Images/1-Logo.png)
