@@ -13,3 +13,5 @@ The USGS is interested in building a new set of tools that will allow them visua
 ![screenshot](Images/2-BasicMap.png)
 
 ### 1. Get your data set
+
+![screenshot](Images/3-Data.png)
