@@ -46,3 +46,5 @@ In this step we are going to..
 
 * Add layer controls to our map.
 
+## Copyright
+Trilogy Education Services © 2019. All Rights Reserved.
