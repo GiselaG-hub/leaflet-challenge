@@ -33,6 +33,8 @@ Create a map using Leaflet that plots all of the earthquakes from your data set 
 
 * Your visualization should look something like the map above.
 
+## Level 2: More Data (Optional)
+
 
 
 
